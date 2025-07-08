@@ -1,3 +1,8 @@
+# cellular automaton on windows explorer
+# by deuspoeticus
+#
+# made for genuary 2025 #7: "Use software that is not intended to create art or images."
+
 from PIL import Image
 import os
 
